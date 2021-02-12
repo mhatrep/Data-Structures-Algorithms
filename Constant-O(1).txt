@@ -1,4 +1,4 @@
-// Constant O(n)
+// Constant O(1)
 
 function Constant(n) {
     return n*n;
