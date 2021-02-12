@@ -1,3 +1,3 @@
 # Data-Structures-Algorithms
 
-![Big-O](https://commons.wikimedia.org/wiki/File:Big-O_Cheatsheet.png "Big-O")
+![Big-O](https://github.com/mhatrep/Data-Structures-Algorithms/blob/main/Big-O_Cheatsheet.png "Big-O")
