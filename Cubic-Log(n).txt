@@ -1,0 +1,25 @@
+// Logarithmic
+
+function Log(n) {
+  for (var i = 2; i <= n; i = i * 2) {
+    console.log(i);
+  }
+}
+
+Log(30)
+
+----------------------------------------------------
+
+# Java Example
+
+class Main {
+  public static void main(String[] args) {
+    int n = 3;
+    for (int i = 1; i < n; i = i * 2){
+        System.out.println("Value : " + i);
+    }
+  }
+}
+
+Value : 1
+Value : 2
