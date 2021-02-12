@@ -1,0 +1,17 @@
+class Main {
+  public static void main(String[] args) {
+    int n = 3;
+    for (int i = 1; i <= Math.pow(2, n); i++){
+        System.out.println("Value: " + i);
+    }
+  }
+}
+
+Value: 1
+Value: 2
+Value: 3
+Value: 4
+Value: 5
+Value: 6
+Value: 7
+Value: 8
