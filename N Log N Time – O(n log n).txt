@@ -1,0 +1,17 @@
+class Main {
+  public static void main(String[] args) {
+    int n = 3;
+    for (int i = 1; i <= n; i++){
+        for(int j = 1; j < n; j = j * 2) {
+            System.out.println("Values : " + i + " and " + j);
+        }
+    }
+  }
+}
+
+Values : 1 and 1
+Values : 1 and 2
+Values : 2 and 1
+Values : 2 and 2
+Values : 3 and 1
+Values : 3 and 2
