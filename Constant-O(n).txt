@@ -1,0 +1,10 @@
+// Constant O(n)
+
+function Constant(n) {
+    return n*n;
+}
+
+Constant(20)
+----------------------------------------------------
+
+400
