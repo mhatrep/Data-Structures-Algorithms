@@ -1,0 +1,18 @@
+// Factorial O(n!)
+
+function Factorial(n) {
+  let number = n;
+  if (n === 0) return 1
+
+  for (let i = 0; i < n; i++) {
+    number = n * Factorial(n - 1);
+  };
+
+  return number;
+};
+
+Factorial(5)
+
+----------------------------------------------------
+
+120
